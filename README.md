@@ -70,7 +70,6 @@ src/
 ---
 
 ## Screenshots
-Screenshots will be added to demonstrate the main user interface and system workflows.
 
 ### Login Screen
 ![Login Screen](screenshots/login-screen.png)
@@ -78,11 +77,11 @@ Screenshots will be added to demonstrate the main user interface and system work
 ### Main Dashboard
 ![Main Dashboard](screenshots/main-dashboard.png)
 
-### Patient Management
-![Patient Management](screenshots/patient-management.png)
+### Departments
+![Departments](screenshots/departments.png)
 
-### Visit Management
-![Visit Management](screenshots/visit-management.png)
+### Visits
+![Visits](screenshots/visits.png)
 
 -->
 
